@@ -1,5 +1,14 @@
-# Navigate to your project folder (if you're not already there)
-cd ~/Port-scanner
+# Port Scanner
 
-# Open README.md with nano editor
-nano README.md
+A simple TCP port scanner built with Python.
+
+## Features
+- Scans common ports on a given IP address
+- Identifies open ports
+
+## Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/MatiwosKebede/Port-scanner.git
+   cd Port-scanner
